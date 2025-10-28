@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c1b11a0c275e431580a973fde5d1813c/artifacts
+end_time: 1761635948435
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1b11a0c275e431580a973fde5d1813c
+run_name: persistent-perch-191
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761635948353
+status: 4
+tags: []
+user_id: N R TEJA PRAKASH
